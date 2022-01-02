@@ -16,6 +16,7 @@
 - [Заполнение Шага Открытие Формы Создания Клиента](https://github.com/alex-dev-2020/VA-Module-2/commit/884a1ddd8cebea7e1bdc50214299512c0bbfea93)
 - [Заполнение Шага Заполнение Наименования Клиента](https://github.com/alex-dev-2020/VA-Module-2/commit/631745a8296cce31ff38abd5098ea5a4fdbabb0c)
 - [Заполнение Шага Заполнение Номера Телефона Клиента](https://github.com/alex-dev-2020/VA-Module-2/commit/d530ea9903f032d5cc49fd28342c90ab75f9f6ef)
+- [Заполнение Шага Сохранение](https://github.com/alex-dev-2020/VA-Module-2/commit/9da181569f3236c996d49c71ddd6b8df63c7a54e)
    
    
    
