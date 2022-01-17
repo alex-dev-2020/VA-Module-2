@@ -38,7 +38,7 @@
 - [Заполненние Справочника Виды Цен ](https://github.com/alex-dev-2020/VA-Module-2/blob/main/Features/External/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%92%D0%B8%D0%B4%D0%BE%D0%B2%20%D0%A6%D0%B5%D0%BD.feature)
 - [Заполненние Справочника Регионы](https://github.com/alex-dev-2020/VA-Module-2/blob/main/Features/External/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2.feature)
 - [Заполненние Справочника Контрагенты](https://github.com/alex-dev-2020/VA-Module-2/blob/main/Features/External/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.feature)
-    - [Обезличены Контрагенты ](https://github.com/alex-dev-2020/VA-Module-2/commit/0bbc9aa5a71a7651b935f3ad36a60c1eb4fde871)
+    - [Обезличены Контрагенты ](https://github.com/alex-dev-2020/VA-Module-2/commit/499c1212e1a9359982ccea961ed268b35b482a84)
 
 
 
